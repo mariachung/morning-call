@@ -1,0 +1,10 @@
+{
+	"name":"first test",
+	"manifest_version": 2,
+	"description":"This extension demonstrates a browser action",
+	"version":"0.1.0",
+	"browser_action":{
+		"default_icon":"icon.png",
+		"default_popup":"popup.html"
+	}
+}
